@@ -1,3 +1,6 @@
+# By: Gil Shechter
+
+
 def opening_screen():
     #This functions prints the opening screen of Hangman game.
     HANGMAN_ASCII_ART = """
